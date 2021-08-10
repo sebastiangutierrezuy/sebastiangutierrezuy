@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```javascript
+enderkey = {
+  human_name : 'Sebastian Gutierrez',
+  age : 23,
+  position : Full_Stack,
+  favourite_technologies : [NodeJs, Angular, MySQL],
+  web_site : 'www.sebastian-gutierrez.com',
+  hobbies : [Chess, Video_games, Movies]
+};
+```
+
 <!--
 **enderkey/enderkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
