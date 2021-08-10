@@ -7,7 +7,7 @@ enderkey = {
   position : Full_Stack,
   favourite_technologies : [NodeJs, Angular, MySQL],
   web_site : 'www.sebastian-gutierrez.com',
-  hobbies : [Chess, Video_games, Movies]
+  hobbies : [Chess, Video_Games, Movies]
 };
 ```
 
