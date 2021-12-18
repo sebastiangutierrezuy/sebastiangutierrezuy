@@ -5,9 +5,9 @@ const enderkey = {
   human_name : 'Sebastian Gutierrez',
   age : 23,
   position : Full_Stack,
-  favourite_technologies : [NodeJs, Angular, MySQL],
+  favourite_technologies : [ NodeJs, Angular, MySQL ],
   web_site : 'www.sebastian-gutierrez.com',
-  hobbies : [Chess, Video_Games, Movies]
+  hobbies : [ Chess, Video_Games, Movies ]
 };
 ```
 
