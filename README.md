@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 ```javascript
-const enderkey = {
-  human_name : 'Sebastian Gutierrez',
-  age : 23,
-  position : Full_Stack,
-  favourite_technologies : [ NodeJs, Angular, MySQL ],
+const Sebastian = {
+  full_name : 'Sebastian Gutierrez',
+  age : 25,
+  country: '🇺🇾'
+  position : 'Back End',
+  favourite_technologies : [ 'NodeJs', 'Angular', 'MySQL' ],
   web_site : 'www.sebastian-gutierrez.com',
-  hobbies : [ Chess, Video_Games, Read ]
+  hobbies : [ 'Chess ♟️', 'Read 📖', 'Photography 📷' ]
 };
 ```
 
