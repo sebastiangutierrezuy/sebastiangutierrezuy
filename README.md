@@ -4,7 +4,7 @@
 const Sebastian = {
   full_name : 'Sebastian Gutierrez',
   age : 25,
-  country: '🇺🇾'
+  country: '🇺🇾',
   position : 'Back End',
   favourite_technologies : [ 'NodeJs', 'Angular', 'MySQL' ],
   web_site : 'www.sebastian-gutierrez.com',
